@@ -89,6 +89,21 @@ All colors MUST be HSL.
       box-shadow: 0 0 40px hsl(var(--primary) / 0.6);
     }
   }
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+  
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  
+    .animate-fadeIn {
+      animation: fadeIn 0.5s ease;
+    }
 
   .dark {
     --background: 0 0% 8%;
