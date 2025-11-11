@@ -51,9 +51,9 @@ const TheorySection = () => {
               delay={200}
             >
               <p className="text-foreground leading-relaxed mb-4">
-                Các đồng chí ơi, khi nghiên cứu về tôn giáo, chúng ta không thể
-                đơn giản chỉ lên án hay phủ nhận nó. Hãy để tôi giải thích bản
-                chất thực sự của tôn giáo:
+                Khi nghiên cứu về tôn giáo, chúng ta không thể đơn giản chỉ lên
+                án hay phủ nhận nó. Hãy để tôi giải thích bản chất thực sự của
+                tôn giáo:
               </p>
               <blockquote className="border-l-4 border-primary pl-4 my-4 italic text-lg">
                 "Tôn giáo là tiếng thở dài của sinh vật bị áp bức, là trái tim
@@ -77,7 +77,7 @@ const TheorySection = () => {
               delay={400}
             >
               <p className="text-foreground leading-relaxed">
-                Đồng chí Marx nói rất đúng! Tôi xin bổ sung thêm về{" "}
+                Marx nói rất đúng! Tôi xin bổ sung thêm về{" "}
                 <strong>nguồn gốc sâu xa</strong> của tôn giáo:
               </p>
               <blockquote className="border-l-4 border-accent pl-4 my-4 italic text-lg">
@@ -120,7 +120,7 @@ const TheorySection = () => {
               delay={600}
             >
               <p className="text-foreground leading-relaxed mb-4">
-                Một điều quan trọng các đồng chí cần hiểu:{" "}
+                Một điều quan trọng cần hiểu:{" "}
                 <strong>Tôn giáo không phải là hiện tượng bất biến</strong>, mà
                 nó thay đổi theo điều kiện lịch sử.
               </p>
@@ -176,7 +176,7 @@ const TheorySection = () => {
               delay={800}
             >
               <p className="text-foreground leading-relaxed mb-4">
-                Các đồng chí, có một điều{" "}
+                Có một điều{" "}
                 <strong className="text-destructive">
                   TUYỆT ĐỐI KHÔNG ĐƯỢC LÀM
                 </strong>

@@ -52,8 +52,7 @@ const VietnamSection = () => {
               delay={200}
             >
               <p className="text-foreground leading-relaxed mb-4">
-                Các cháu ơi, Bác muốn nói với các cháu về chính sách tôn giáo
-                của Đảng và Nhà nước ta:
+                Bác muốn nói về chính sách tôn giáo của Đảng và Nhà nước ta:
               </p>
               <blockquote className="border-l-4 border-primary pl-4 my-4 italic text-xl">
                 "Tín ngưỡng, tôn giáo là <strong>nhu cầu tinh thần</strong> của
